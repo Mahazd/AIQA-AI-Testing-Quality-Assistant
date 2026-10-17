@@ -35,7 +35,7 @@ Screenshots of the AI Assistant and Quality Insights pages will be added after t
 ![Quality Insights](quality-insights.png)
 
 ### Human Review
-![Human Review](human-review.png)
+![Human Review](Human-review.png)
 
 Quality Engineering Focus
 This project explores more than generating answers. Its quality-focused design includes:
