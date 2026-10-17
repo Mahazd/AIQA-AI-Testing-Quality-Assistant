@@ -26,6 +26,17 @@ Demo video: Coming soon.
 The planned walkthrough covers asking a testing-related question, submitting feedback, exploring Quality Insights, and completing a human review.
 Screenshots
 Screenshots of the AI Assistant and Quality Insights pages will be added after the final UI review.
+## Project Screenshots
+
+### AI Assistant
+![AIQA Assistant](aiqa-assistant.png)
+
+### Quality Insights
+![Quality Insights](quality-insights.png)
+
+### Human Review
+![Human Review](human-review.png)
+
 Quality Engineering Focus
 This project explores more than generating answers. Its quality-focused design includes:
 1. Grounding responses in an available knowledge base.
