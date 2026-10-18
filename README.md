@@ -22,9 +22,9 @@ Feedback tracking	CSV-based prototype storage
 
 
 Demonstration
-Demo video: Coming soon.
+Demo video: 
 The planned walkthrough covers asking a testing-related question, submitting feedback, exploring Quality Insights, and completing a human review.
-Screenshots
+
 
 
 ## Project Screenshots
