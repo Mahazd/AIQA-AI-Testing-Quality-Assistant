@@ -1,4 +1,4 @@
-AIQA — AI Testing & Quality Assistant
+AIQA - AI Testing & Quality Assistant
 A personal proof-of-concept exploring how retrieval-augmented generation (RAG), user feedback, and human review can support software testing knowledge and AI response quality.
 Project showcase: This public repository documents the project and its demonstration. The application source code is not included.
 
@@ -10,6 +10,23 @@ Key Features
 - Quality Insights dashboard: Summarizes feedback and supports visibility into response quality.
 - Human-in-the-loop review: Enables review and classification of feedback requiring attention.
 - Local-first prototype: Runs with a local language model and vector database.
+
+  Code Highlights
+
+AIQA combines Generative AI with Software Quality Engineering practices to support continuous quality improvement.
+
+This repository includes selected source code demonstrating:
+
+Feedback Monitoring — Tracking user ratings and answer helpfulness.
+
+Quality Insights — Analyzing feedback trends and identifying areas for improvement.
+
+Human-in-the-Loop Review — Reviewing low-rated responses and classifying potential issues.
+
+📁 Explore the Code Examples
+
+Note: The shared code is a selected showcase of AIQA's implementation, not the complete application. User feedback does not automatically retrain the AI model.
+
 Technology Stack
 Area	Technology
 Application interface	Python, Streamlit
