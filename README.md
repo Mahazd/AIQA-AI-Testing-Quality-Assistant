@@ -45,15 +45,15 @@ Watch AIQA in action — from knowledge-grounded question answering to feedback 
 
 
 
-## Project Screenshots
+Project Screenshots
 
-### AI Assistant
+
 ![AIQA Assistant](aiqa-assistant.png)
 
-### Quality Insights
+
 ![Quality Insights](quality-insights.png)
 
-### Human Review
+
 ![Human Review](Human-review.png)
 
 Quality Engineering Focus
