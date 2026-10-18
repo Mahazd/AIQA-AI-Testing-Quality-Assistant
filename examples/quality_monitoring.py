@@ -1,4 +1,4 @@
-"""AIQA — selected quality monitoring and human-review logic.
+"""AIQA selected quality monitoring and human-review logic.
 
 Portfolio excerpt adapted from the local Streamlit prototype.
 This is not the complete application or an automated AI accuracy evaluator.
