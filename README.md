@@ -36,7 +36,7 @@ Quality Insights: Analyzing negative feedback and identifying areas requiring at
 
 Human Review Workflow: Classifying potential issues and recording review outcomes.
 
-📁 [examples/quality_monitoring.py]
+📁 [https://github.com/Mahazd/AIQA-AI-Testing-Quality-Assistant/tree/main/examples]
 
 The published examples demonstrate selected implementation concepts and do not represent the complete application. User feedback does not automatically retrain the AI model.
 
