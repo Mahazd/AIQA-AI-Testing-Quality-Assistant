@@ -23,7 +23,7 @@ Quality Insights — Analyzing feedback trends and identifying areas for improve
 
 Human-in-the-Loop Review — Reviewing low-rated responses and classifying potential issues.
 
-📁 Explore the Code Examples
+📁 [(https://github.com/Mahazd/AIQA-AI-Testing-Quality-Assistant/blob/main/examples/quality_monitoring.py)]
 
 Note: The shared code is a selected showcase of AIQA's implementation, not the complete application. User feedback does not automatically retrain the AI model.
 
