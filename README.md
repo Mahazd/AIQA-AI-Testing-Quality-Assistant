@@ -14,15 +14,15 @@ Beyond traditional question answering, AIQA incorporates feedback collection, qu
 
 Key Features
 
-Knowledge-Grounded Q&A — Uses RAG to generate responses informed by a local software testing knowledge base.
+Knowledge-Grounded Q&A: Uses RAG to generate responses informed by a local software testing knowledge base.
 
-User Feedback Collection — Captures helpful and not helpful ratings, feedback reasons, and optional comments.
+User Feedback Collection: Captures helpful and not helpful ratings, feedback reasons, and optional comments.
 
-Quality Insights Dashboard — Visualizes answer helpfulness, feedback trends, and pending reviews.
+Quality Insights Dashboard: Visualizes answer helpfulness, feedback trends, and pending reviews.
 
-Human-in-the-Loop Review — Supports manual review, issue classification, and documentation of findings.
+Human-in-the-Loop Review: Supports manual review, issue classification, and documentation of findings.
 
-Local-First Architecture — Uses a locally hosted language model and vector database.
+Local-First Architecture: Uses a locally hosted language model and vector database.
 
 Code Highlights
 
