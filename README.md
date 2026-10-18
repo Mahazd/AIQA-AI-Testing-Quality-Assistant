@@ -24,7 +24,7 @@ Feedback tracking	CSV-based prototype storage
 Demonstration
 Watch AIQA in action — from knowledge-grounded question answering to feedback collection, quality insights, and human review.
 
-🎬 [https://github.com/Mahazd/AIQA-AI-Testing-Quality-Assistant/releases/tag/v1.0]
+🎬 [https://github.com/Mahazd/AIQA-AI-Testing-Quality-Assistant/releases/download/v1.0/AIQA.mp4]
 
 
 
