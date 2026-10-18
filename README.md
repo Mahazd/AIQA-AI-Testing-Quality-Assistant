@@ -22,8 +22,9 @@ Feedback tracking	CSV-based prototype storage
 
 
 Demonstration
-Demo video: 
-The planned walkthrough covers asking a testing-related question, submitting feedback, exploring Quality Insights, and completing a human review.
+Watch AIQA in action — from knowledge-grounded question answering to feedback collection, quality insights, and human review.
+
+🎬 
 
 
 
