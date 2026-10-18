@@ -1,4 +1,4 @@
-AIQA — AI Testing & Quality Assistant
+AIQA AI Testing & Quality Assistant
 
 Where AI Meets Quality Engineering
 
@@ -30,11 +30,11 @@ AIQA combines Generative AI with Software Quality Engineering practices to suppo
 
 Selected source code examples demonstrate:
 
-Feedback Monitoring — Tracking user ratings and answer helpfulness.
+Feedback Monitoring: Tracking user ratings and answer helpfulness.
 
-Quality Insights — Analyzing negative feedback and identifying areas requiring attention.
+Quality Insights: Analyzing negative feedback and identifying areas requiring attention.
 
-Human Review Workflow — Classifying potential issues and recording review outcomes.
+Human Review Workflow: Classifying potential issues and recording review outcomes.
 
 📁 [examples/quality_monitoring.py]
 
@@ -106,10 +106,8 @@ Personal Proof of Concept — Ongoing Development
 
 AIQA is an independent learning and portfolio project using general software testing knowledge. It is not intended to expose organizational systems or confidential information.
 
-Author
-
+Author:
 Maha Alshalahi
-
 Software Quality Engineer | ISTQB CT-GenAI Certified
 
 Exploring the intersection of Software Quality Engineering, Generative AI, and Human-Centered AI Evaluation.
