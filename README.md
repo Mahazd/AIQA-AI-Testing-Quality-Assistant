@@ -25,7 +25,8 @@ Demonstration
 Demo video: Coming soon.
 The planned walkthrough covers asking a testing-related question, submitting feedback, exploring Quality Insights, and completing a human review.
 Screenshots
-Screenshots of the AI Assistant and Quality Insights pages will be added after the final UI review.
+
+
 ## Project Screenshots
 
 ### AI Assistant
