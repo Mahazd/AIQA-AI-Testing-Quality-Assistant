@@ -41,38 +41,15 @@ Human Review Workflow — Classifying potential issues and recording review outc
 The published examples demonstrate selected implementation concepts and do not represent the complete application. User feedback does not automatically retrain the AI model.
 
 Technology Stack
-
-Area
-
-Technology
-
-Application Interface
-
-Python, Streamlit
-
-RAG Orchestration
-
-LangChain
-
-Local Model Runtime
-
-Ollama
-
-Language Model
-
-Llama 3.2
-
-Embeddings
-
-nomic-embed-text
-
-Vector Database
-
-Chroma
-
-Feedback Tracking
-
-CSV-based prototype storage
+| Area | Technology |
+|---|---|
+| Application Interface | Python, Streamlit |
+| RAG Orchestration | LangChain |
+| Local Model Runtime | Ollama |
+| Language Model | Llama 3.2 |
+| Embeddings | nomic-embed-text |
+| Vector Database | Chroma |
+| Feedback Tracking | CSV-based prototype storage |
 
 Demonstration
 
