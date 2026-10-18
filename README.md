@@ -1,45 +1,82 @@
-AIQA - AI Testing & Quality Assistant
-A personal proof-of-concept exploring how retrieval-augmented generation (RAG), user feedback, and human review can support software testing knowledge and AI response quality.
-Project showcase: This public repository documents the project and its demonstration. The application source code is not included.
+AIQA — AI Testing & Quality Assistant
+
+Where AI Meets Quality Engineering
+
+A personal proof-of-concept exploring how Retrieval-Augmented Generation (RAG), user feedback, and human-in-the-loop review can support software testing knowledge and AI response quality.
+
+Project Showcase: This repository presents AIQA through its documentation, demonstration, screenshots, and selected source code examples. The complete application source code remains private.
 
 Overview
-AIQA is a local AI assistant designed to answer questions about software testing using a curated knowledge base. Beyond question answering, the prototype includes feedback collection, quality insights, and a human review workflow to help assess and improve AI-generated responses.
-Key Features
-- Knowledge-grounded Q&A: Uses retrieval-augmented generation to respond based on a local software testing knowledge base.
-- Feedback collection: Users can rate answers as helpful or not helpful and provide reasons or comments.
-- Quality Insights dashboard: Summarizes feedback and supports visibility into response quality.
-- Human-in-the-loop review: Enables review and classification of feedback requiring attention.
-- Local-first prototype: Runs with a local language model and vector database.
 
-  Code Highlights
+AIQA is a locally running AI assistant designed to answer software testing questions using a curated knowledge base.
+
+Beyond traditional question answering, AIQA incorporates feedback collection, quality monitoring, and human review to support the assessment and continuous improvement of AI-generated responses.
+
+Key Features
+
+Knowledge-Grounded Q&A — Uses RAG to generate responses informed by a local software testing knowledge base.
+
+User Feedback Collection — Captures helpful and not helpful ratings, feedback reasons, and optional comments.
+
+Quality Insights Dashboard — Visualizes answer helpfulness, feedback trends, and pending reviews.
+
+Human-in-the-Loop Review — Supports manual review, issue classification, and documentation of findings.
+
+Local-First Architecture — Uses a locally hosted language model and vector database.
+
+Code Highlights
 
 AIQA combines Generative AI with Software Quality Engineering practices to support continuous quality improvement.
 
-This repository includes selected source code demonstrating:
+Selected source code examples demonstrate:
 
 Feedback Monitoring — Tracking user ratings and answer helpfulness.
 
-Quality Insights — Analyzing feedback trends and identifying areas for improvement.
+Quality Insights — Analyzing negative feedback and identifying areas requiring attention.
 
-Human-in-the-Loop Review — Reviewing low-rated responses and classifying potential issues.
+Human Review Workflow — Classifying potential issues and recording review outcomes.
 
 📁 [examples/quality_monitoring.py]
 
-Note: The shared code is a selected showcase of AIQA's implementation, not the complete application. User feedback does not automatically retrain the AI model.
+The published examples demonstrate selected implementation concepts and do not represent the complete application. User feedback does not automatically retrain the AI model.
 
 Technology Stack
-Area	Technology
-Application interface	Python, Streamlit
-RAG orchestration	LangChain
-Local model runtime	Ollama
-Language model	Llama 3.2
-Embeddings	nomic-embed-text
-Vector database	Chroma
-Feedback tracking	CSV-based prototype storage
 
+Area
+
+Technology
+
+Application Interface
+
+Python, Streamlit
+
+RAG Orchestration
+
+LangChain
+
+Local Model Runtime
+
+Ollama
+
+Language Model
+
+Llama 3.2
+
+Embeddings
+
+nomic-embed-text
+
+Vector Database
+
+Chroma
+
+Feedback Tracking
+
+CSV-based prototype storage
 
 Demonstration
-Watch AIQA in action — from knowledge-grounded question answering to feedback collection, quality insights, and human review.
+
+Watch AIQA in action, from knowledge-grounded question answering to feedback collection, quality insights, and human review.
 
 🎬 [https://github.com/Mahazd/AIQA-AI-Testing-Quality-Assistant/releases/download/v1.0/AIQA.mp4]
 
@@ -57,20 +94,45 @@ Project Screenshots
 ![Human Review](Human-review.png)
 
 Quality Engineering Focus
-This project explores more than generating answers. Its quality-focused design includes:
-1. Grounding responses in an available knowledge base.
-2. Capturing explicit user feedback about answer usefulness.
-3. Making feedback trends visible through a dashboard.
-4. Supporting human assessment of responses that need review.
-Prototype scope: The current dashboard and review process support manual quality assessment; they should not be interpreted as an independently validated measure of model accuracy or a production-ready evaluation framework.
+
+AIQA explores more than generating answers. Its quality-focused design includes:
+
+Grounding responses in a curated knowledge base.
+
+Capturing explicit user feedback about answer usefulness.
+
+Monitoring feedback trends through a quality dashboard.
+
+Supporting human assessment of responses requiring review.
+
+Classifying potential issues to inform future improvements.
+
+Prototype Scope: Current metrics reflect submitted user feedback and manual review activity. They are not independently validated measures of model accuracy, retrieval quality, or production readiness.
+
 Future Improvements
-- Build a structured evaluation dataset with expected answers.
-- Add retrieval and response-quality evaluation metrics.
-- Improve feedback analysis and reporting.
-- Expand knowledge coverage and regression testing.
-- Evaluate deployment, security, and data-governance requirements before any organizational use.
+
+Build structured evaluation datasets with expected answers.
+
+Introduce retrieval and response-quality evaluation metrics.
+
+Expand automated regression testing for AI responses.
+
+Enhance feedback analysis and reporting.
+
+Expand knowledge coverage.
+
+Evaluate security, deployment, and data-governance requirements.
+
 Project Status
-Personal proof of concept — ongoing development. The demonstration uses general software testing content and is not intended to expose organizational systems or confidential data.
-Author & Portfolio Use
-Created as a personal project to explore the intersection of software quality engineering, generative AI, and human-centered AI evaluation.
-This repository is a project showcase; implementation files are intentionally kept private.
+
+Personal Proof of Concept — Ongoing Development
+
+AIQA is an independent learning and portfolio project using general software testing knowledge. It is not intended to expose organizational systems or confidential information.
+
+Author
+
+Maha Alshalahi
+
+Software Quality Engineer | ISTQB CT-GenAI Certified
+
+Exploring the intersection of Software Quality Engineering, Generative AI, and Human-Centered AI Evaluation.
